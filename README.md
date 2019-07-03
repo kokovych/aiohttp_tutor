@@ -28,3 +28,11 @@ $ psql -U postgres -h localhost
 > GRANT ALL PRIVILEGES ON DATABASE aiohttpdemo_polls TO aiohttpdemo_user;
 
 ```
+
+#### Run
+
+For start project:
+
+```
+(venv)$ python aiohttpdemo_polls/main.py
+```
